@@ -19,7 +19,7 @@ A simple and functional ToDo List RESTful API built with ASP.NET Core. This proj
 - Swagger for API documentation
 
 ## 📂 Project Structure
-
+![View Structure](https://github.com/theaxmedovv/todo-list/blob/main/Structure.png)
 
 
 ## 🔧 Setup Instructions
